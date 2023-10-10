@@ -1,8 +1,8 @@
 ### Hi there 👋
-👋 Hi, I’m Rohith kumar B
+👋 Hi, myself Santhosh
 
-👀 I’m interested in Full Stack Development
+👀 I’m interested in Full Stack Development and cloud computing 
 
 🌱 I’m currently learning HTMl,CSS,JavaScript
 
-📫 How to reach me rohithkumarcbaalraj@gmail.com
+📫 How to reach me santhoshsethuramu@gmail.com
