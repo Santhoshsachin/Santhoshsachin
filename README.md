@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
 <h3 align="center">currently learning frontend</h3>
-<image align="right" alt="Coding" width="400" src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<image align="right" alt="Coding" width="400" src="https://payload.cargocollective.com/1/3/125982/11115286/superman-animated-gif.gif">
 
 <p align="left"> <a href="https://twitter.com/_santhosh_.08" target="blank"><img src="https://img.shields.io/twitter/follow/_santhosh_.08?logo=twitter&style=for-the-badge" alt="_santhosh_.08" /></a> </p>
 
